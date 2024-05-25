@@ -1,0 +1,288 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+    font-family: Inter;
+    
+}
+.container {
+    width: 1100px;
+    margin: 0 auto;
+    padding: 0 20px;
+    
+}
+.xx{
+    width: 100%;
+}
+.navigation {
+    list-style: none;
+    gap: 110px;
+    padding-top: 20px;
+    padding-left: 40px;
+}
+.flex {
+    display: flex;
+    
+   
+}
+.justify-between {
+    justify-content: space-between;
+    /* margin-right: 100px; */
+   
+}
+.items-center{
+    align-items: center;
+    /* margin-left: 80px; */
+}
+nav a{
+ color: black;
+}
+.src{
+width: 156px;
+height: 41px;
+border-radius: 10px;
+color: rgb(209, 13, 13);
+background:white;
+border: 3px solid red;
+/* margin-right: 300px; */
+margin-top: 20px;
+ transform: translateY(-4px);
+}
+.src:hover{
+    background-color: #f89358;
+    cursor: pointer;
+    
+}
+
+/* .style{
+    padding-left:560px;
+    padding-top: 20px;
+} */
+.title{
+    padding-top: 20px;
+
+}
+.svg{
+    color: red;
+}
+.foo{
+background-size: cover;
+background-image: url(./assets/icons/images/image\ 4.svg);
+height: 533px;
+margin-top: 20px;
+
+
+}
+.sip{
+    width: 500px;
+    height: 82.29px;
+    top: 235.8px;
+    left: 170px;
+    gap: 0px;
+    opacity: 0px;
+    color: white;    
+    padding-top: 150px;
+}
+.fll{
+   width: 200px;
+   height: 50px;
+padding: 12px 24px 12px 24px;
+gap: 0px;
+border-radius: 10px;
+opacity: 0px;
+background: #DE2E54CC;
+border: 3px solid #DE2E54CC;
+margin-top: 110px;
+color: white;
+
+}
+.fll:hover{
+    background-color: aqua;
+    cursor: pointer;
+}
+.iaa{
+margin-top: -260px;
+margin-left: 1200px;
+}
+
+.soo{
+margin-top: 50px;
+text-align: center;
+
+}
+.uuu{
+    display: flex;
+    margin-left: 500px;
+    gap: 100px;
+    margin-top: 50px;
+}
+.spp{
+    margin-top: 40px;
+}
+.sqq{
+    margin-top: 20px;
+}
+.qqq{
+    display: flex;
+    margin-top: 90px;
+    margin-left: 470px;
+    gap: 100px;
+}
+.dloa{
+    margin-top: 40px;
+}
+.sdss{
+    margin-top: 40px;
+}
+.section1{
+    background: #0EB4C1;
+    width: 100%;
+    height: 800px;
+    top: 1447px;
+    left: 1px;
+    gap: 0px;
+    opacity: 0px;
+    margin-top: 220px;
+    
+}
+.salam{
+   
+font-family: Inter;
+font-size: 54px;
+font-weight: 600;
+line-height: 77.45px;
+text-align: center;
+padding-top: 70px
+
+}
+.iii{
+    margin-left: 150px;
+    width: 513px;
+height: 331px;
+top: 1685px;
+left: 157px;
+gap: 0px;
+border-radius: 10px 0px 0px 0px;
+opacity: 0px;
+margin-top: 150px;
+
+}
+
+.mort{
+    width: 530px;
+height: 330px;
+gap: 0px;
+opacity: 0px;
+background: #FFFFFF;
+border-radius: 2px;
+
+}
+.google{
+    width: 460px;
+height: 39.11px;
+top: 27.93px;
+left: 40px;
+gap: 0px;
+opacity: 0px;
+margin-top: 30px;
+margin-left: 37px;
+border-radius: 4px;
+border: 1px solid black;
+}
+.gaa{
+    width: 460px;
+    height: 39.11px;
+    top: 27.93px;
+    left: 40px;
+    gap: 0px;
+    opacity: 0px;
+    margin-top: 20px;
+    margin-left: 37px; 
+    border-radius: 4px;
+    border: 1px solid rgb(180, 179, 179);
+}
+.nono{
+    width: 460px;
+    height: 39.11px;
+    top: 27.93px;
+    left: 40px;
+    gap: 0px;
+    opacity: 0px;
+    margin-top: 20px;
+    margin-left: 37px;   
+    border-radius: 4px;
+    border: 1px solid rgb(180, 179, 179);
+}
+.lolo{
+    width: 460px;
+    height: 39.11px;
+    top: 27.93px;
+    left: 40px;
+    gap: 0px;
+    opacity: 0px;
+    margin-top: 20px;
+    margin-left: 37px;   
+    border-radius: 4px;
+    border: 1px solid rgb(180, 179, 179);
+}
+
+.momo{
+    width: 460px;
+    height: 39.11px;
+    top: 27.93px;
+    left: 40px;
+    gap: 0px;
+    opacity: 0px;
+    margin-top: 20px;
+    margin-left: 37px;   
+    background: #38CC8B;
+    box-shadow: 0px -4px 0px 0px #00000017 inset;
+    border-radius: 8px;
+    
+}
+.momo:hover{
+    background-color: aqua;
+    cursor: pointer;
+}
+.bla{
+    margin-top: -340px;
+    margin-left: 1050px;
+}
+.container{
+    max-width: 1340px;
+    margin: 0 auto;
+    padding: 0px 20px;
+
+}
+
+.navigation10{
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 20px;
+    
+
+}
+.god{
+    display: flex;
+    gap: 50px;
+}
+
+.color{
+    color: #FFFFFF;
+}
+.kip{
+    color: #FFFFFF;
+}
+  .red{
+    color: red;
+  }
+  footer{
+    background-color: black;
+  height: 100px;
+  padding-top: 10px;
+
+  }
